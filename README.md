@@ -3,6 +3,11 @@
 - ## Arquitetura e organização de computadores
   - https://github.com/EullerHenrique/AOC
 
+# Haskell
+
+- ## Programação Funcional
+  - https://github.com/EullerHenrique/PF
+
 # C
 
 - ## Introdução a programação de computadores
