@@ -18,6 +18,11 @@
 - ## Programação Lógica
   - https://github.com/EullerHenrique/PL
 
+# Matlab/Octave
+
+- ## Processamento Digital De Imagens
+  -   https://github.com/EullerHenrique/PDI
+
 # C
 
 - ## Introdução a programação de computadores
