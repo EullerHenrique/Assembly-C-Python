@@ -34,6 +34,9 @@
 - ## Estrutura de dados 2
   - https://github.com/EullerHenrique/ED2
 
+- ## Sistemas Operacionais
+  - https://github.com/EullerHenrique/SO 
+
 # Python
 
 - ## Organização e recuperação da informação
