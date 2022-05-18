@@ -31,6 +31,9 @@
 - ## Estrutura de dados 1
   - https://github.com/EullerHenrique/ED1
 
+- ## Estrutura de dados 2
+  - https://github.com/EullerHenrique/ED2
+
 # Python
 
 - ## Organização e recuperação da informação
