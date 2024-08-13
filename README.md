@@ -44,3 +44,6 @@
 
 - ## Organização e recuperação da informação
   - https://github.com/EullerHenrique/ORI
+ 
+- ## Django: Ddd
+  - https://github.com/EullerHenrique/manager_consumer
